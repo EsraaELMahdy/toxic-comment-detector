@@ -1,0 +1,20 @@
+[theme]
+base = "dark"
+primaryColor = "#22D3EE"
+backgroundColor = "#080B14"
+secondaryBackgroundColor = "#111726"
+textColor = "#E8EEF9"
+linkColor = "#67E8F9"
+codeBackgroundColor = "#0D1424"
+font = "sans serif"
+
+[server]
+headless = true
+port = 7860
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
